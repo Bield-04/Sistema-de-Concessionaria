@@ -37,3 +37,4 @@ Um sistema desktop simples e eficiente para cadastro e listagem de veículos (Ca
 3. Se estiver no Linux (como Ubuntu/Kubuntu) e o Tkinter não estiver instalado, execute:
    ```bash
    sudo apt install python3-tk
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f61ce4a-ae18-452d-ae23-2b5c95c8357d" />
